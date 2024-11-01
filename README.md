@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Abdulrahman Omar, an undergrad warrior in the wild world of embedded software.
+Hi I'm Abdulrahman Omar.
 
 
 ## 🌐 Socials:
